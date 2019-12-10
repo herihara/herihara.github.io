@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マタドガス on はらへ界隈</title>
+    <link>https://herihara.github.io/tags/%E3%83%9E%E3%82%BF%E3%83%89%E3%82%AC%E3%82%B9/</link>
+    <description>Recent content in マタドガス on はらへ界隈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 10 Dec 2019 19:58:58 +0900</lastBuildDate>
+    
+	<atom:link href="https://herihara.github.io/tags/%E3%83%9E%E3%82%BF%E3%83%89%E3%82%AC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【剣盾ダブル】ギミック阻止型最速ガラルマタドガス【エルフーン意識】</title>
+      <link>https://herihara.github.io/post/weezing/</link>
+      <pubDate>Tue, 10 Dec 2019 19:58:58 +0900</pubDate>
+      
+      <guid>https://herihara.github.io/post/weezing/</guid>
+      <description>剣盾で登場した新特性:かがくへんかガス。 場にいるポケモンの特性を無効化するという中々面白い特性であり、ダブルのパーティのコンセプトを決めかね</description>
+    </item>
+    
+  </channel>
+</rss>
